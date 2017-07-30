@@ -4,3 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+Welcome. There should really be a blog here, but I'm pretty bad at remembering to write stuff down.
+The useful bits at the moment are probably in [Infodump](/stuff).
+
+I'm just going to leave this nostalgia here for now:
+![RIP Geocities](http://textfiles.com/underconstruction/HeHeartlandPrairie6170construct1.gif)
