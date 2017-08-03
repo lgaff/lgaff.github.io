@@ -1,6 +1,6 @@
 ---
+title: stuff others made
 layout: page
-title: Bookmarks
 published: true
 ---
 

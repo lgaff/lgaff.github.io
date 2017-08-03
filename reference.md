@@ -1,6 +1,6 @@
 ---
+title: stuff i made
 layout: page
-title: Useful stuff
 published: true
 ---
 

@@ -21,6 +21,13 @@ gem "minima", "~> 2.0"
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem "jekyll-theme-slate"
+   gem "jekyll-theme-time-machine"
+   gem "jekyll-theme-modernist"
+   gem "jekyll-theme-minimal"
+   gem "jekyll-theme-dinky"
+   gem "jekyll-theme-tactile"
+   gem "jekyll-theme-midnight"
+
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

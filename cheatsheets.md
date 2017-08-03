@@ -1,6 +1,6 @@
 ---
+title: cheats
 layout: page
-title: Cheat sheets
 published: true
 ---
 
