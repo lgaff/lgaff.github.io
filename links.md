@@ -1,5 +1,5 @@
 ---
-title: stuff others made
+title: stuff others know
 layout: page
 published: true
 ---
