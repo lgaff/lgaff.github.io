@@ -1,5 +1,5 @@
 ---
-title: Vim plugins I use (and why)
+title: Vim plugins I use
 category: Tool documentation
 order: 1
 ---

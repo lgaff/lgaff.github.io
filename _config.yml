@@ -37,7 +37,13 @@ defaults:
       layout: page
 
 collections:
-   docs:
+   links:
+      layout: page
+      output: true
+   tutorials:
+      layout: page
+      output: true
+   reference:
       layout: page
       output: true
 
