@@ -70,14 +70,14 @@ Additionally, declaring the pointer is handled using an asterisk:
 </code></pre>
 
 The declaration can be confusing, since anywhere else, doing this will refer to the value of the pointer.
-- In a procedural context:
+In a procedural context:
 
 <pre><code class="C">
    *some_data = 1;
    </code></pre>
 
 would be read as "The value at the memory location pointed to by *some_data*". We refer to this as 'dereferencing the pointer'.
-- In a declarative context, however:
+In a declarative context, however:
 
 <pre><code class="C">
    int *some_data;
@@ -274,6 +274,5 @@ The full source of my demonstration program is available for download [here][1].
 $ gcc -o pointme pointme.c
 $ ./pointme
 ```
-
 
 [1]:{{ site.url }}/downloads/pointme.c

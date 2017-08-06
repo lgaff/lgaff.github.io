@@ -34,3 +34,10 @@ order: 1
 - [Common lisp cookbook](https://lispcookbook.github.io/cl-cookbook/)
 
    I'm still going through this one, but it has the look of a complete documentation/guide more than a typical cookbook. Specifically, the section on data structures is most useful.
+
+- [Object Oriented C](https://www.cs.rit.edu/~ats/books/ooc.pdf)
+
+   This is a refreshing take on explaining OOP by exploring how to implement an object system in a pointedly non-OO environment. By lifting out of the usual system, where everything
+   is already done for you, it becomes possible to explore the how and why at a level not otherwise seen in something like Java.
+
+

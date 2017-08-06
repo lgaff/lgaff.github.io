@@ -1,5 +1,5 @@
 ---
-title: stuff i can explain
+title: explain stuff
 layout: page
 published: true
 ---

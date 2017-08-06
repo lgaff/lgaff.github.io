@@ -1,7 +1,7 @@
 {% assign default_paths = site.pages | map: "path" %}
 {% assign page_paths = site.header_pages | default: default_paths %}
 <div id="nav-bar">
-   :: <a class="nav-link" href="{{ site.index }}"> home </a> ::
+   :: <a class="nav-link" href="/index.html"> home </a> ::
 {% for path in page_paths %}
    {% assign my_page = site.pages | where: "path", path | first %}
    {% if my_page.title %}

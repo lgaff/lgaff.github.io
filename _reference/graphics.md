@@ -1,6 +1,6 @@
 ---
 Title: Computer graphics
-category: Computer science
+category: Visual arts
 order: 2
 ---
 
@@ -13,5 +13,12 @@ order: 2
 - [Shadertoy](https://shadertoy.com)
 
    A WebGL sandbox. WebGL works pretty much identical to GLSL shaders. Pretty useful to muck around with books like [GPU gems](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html) without having to dive into a ton of C/C++ boilerplate.
+
+## Graphics programming resources
+
+   - [Real-time rendering resources](http://www.realtimerendering.com/)
+
+   - [DirectX programming tutorials](http://www.rastertek.com/tutindex.html)
+
 
 
